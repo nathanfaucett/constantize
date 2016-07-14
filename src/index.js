@@ -1,4 +1,4 @@
-var reInflect = require("re_inflect");
+var reInflect = require("@nathanfaucett/re_inflect");
 
 
 module.exports = constantize;
